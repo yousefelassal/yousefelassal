@@ -1,6 +1,8 @@
 ### Hi there :wave:
+[![Linkedin Badge](https://img.shields.io/badge/-yousefelassal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelassal/)](https://www.linkedin.com/in/yousefelassal/)
 [![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
 ![Banner](https://git.io/JrCSm)
+Welcome to my profile! I'm a computer science sophomore @Nile University, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yousefelassal)!
 ## :star: Skills
 
 HTML, CSS, JavaScript, Python, C++.
