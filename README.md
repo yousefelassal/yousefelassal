@@ -9,8 +9,8 @@ HTML, CSS, JavaScript, Python, C++.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="auto" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="auto" height="70"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="javascript" width="auto" height="70"/>
-  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="javascript" width="auto" height="70"/>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="python" width="auto" height="70"/></a>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="cpp" width="auto" height="70"/>
 </p>
 
 ## :books: What are you currently learning?
