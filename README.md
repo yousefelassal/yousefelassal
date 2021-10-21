@@ -1,5 +1,5 @@
 ### Hi there :wave:
-
+[![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
 ![Banner](https://git.io/JrCSm)
 ## :star: Skills
 
