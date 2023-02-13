@@ -1,8 +1,7 @@
 ### Hi there :wave:
 [![Linkedin Badge](https://img.shields.io/badge/-yousefelassal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelassal/)](https://www.linkedin.com/in/yousefelassal/)
 [![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
-![Banner](https://github.com/vanzasetia/vanzasetia/blob/0d6de79c2b8e022674e52c06548305e049b4c5bb/images/banner.jpg)
-Welcome to my profile! I'm a computer science junior @Nile University, part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/yousefelassal)!
+
 ## :star: Skills
 
 HTML, CSS, JavaScript, Python, C++.
@@ -23,5 +22,5 @@ Right now, I'm learning JavaScript frameworks, Git, Search Engine Optimization, 
   <a href="https://nodejs.org/en/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" width ="auto" height="70"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" width="auto" height="70"/></a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
-  <img src="https://git.io/JrC5i" alt="seo" width="auto" height="70"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/4693/4693059.png" alt="seo" width="auto" height="70"/>
 </p>
