@@ -1,6 +1,13 @@
-### Hi there :wave:
+
+<h1 align="center"> Hello there :wave:</h1>
+<h3 align="center">🚀 Full Stack Developer 🚀</h3>
+
 [![Linkedin Badge](https://img.shields.io/badge/-yousefelassal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelassal/)](https://www.linkedin.com/in/yousefelassal/)
 [![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
+
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
+<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
 ## :star: Skills
 
