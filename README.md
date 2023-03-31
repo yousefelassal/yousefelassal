@@ -29,7 +29,6 @@
   <a marigin="20" href= "https://www.figma.com/" target="_blank"><img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-  <a marigin="20" href= "https://www.canva.com/en_gb/" target="_blank"><img  alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
   <a marigin="20" href= "https://www.blender.org/" target="_blank"><img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
 </div>
 
@@ -38,7 +37,7 @@
 Right now, I'm learning JavaScript frameworks, Git, Search Engine Optimization, Web Accessibility, and much more. But, my main focus is sharpening my JavaScript skill by doing [Frontend Mentor challenges](https://www.frontendmentor.io/challenges/).
 
 <p align="left">
-  <a href="https://nodejs.org/en/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" width ="auto" height="70"/></a>
+  <a href="https://nodejs.org/en/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs logo" width ="auto" height="70"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" width="auto" height="70"/></a>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
   <img src="https://cdn-icons-png.flaticon.com/512/4693/4693059.png" alt="seo" width="auto" height="70"/>
