@@ -32,6 +32,7 @@
   <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
   <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=" alt = "premiere" />
   <a marigin="20" href= "https://www.blender.org/" target="_blank"><img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+   <a marigin="20" href= "https://www.aseprite.org/" target="_blank"><img  alt="aseprite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label="/>
 </div>
 
 ## :books: What are you currently learning?
