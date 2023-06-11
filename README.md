@@ -44,6 +44,6 @@ Right now, I'm learning JavaScript frameworks, Git, Search Engine Optimization, 
 <p align="left">
   <a href="https://nodejs.org/en/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="nodejs logo" width ="auto" height="70"/></a>
   <a href="https://reactjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react logo" width="auto" height="70"/></a>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="auto" height="70"/></a>
   <img src="https://cdn-icons-png.flaticon.com/512/4693/4693059.png" alt="seo" width="auto" height="70"/>
 </p>
