@@ -7,7 +7,7 @@
 
 <a href="https://github.com/yousefelassal"><img align="right" src="https://media1.giphy.com/media/3o752mkVmOpzaSxRo4/giphy.gif?cid=790b761151aa094c1459094652f9faf01155315aa3167975&rid=giphy.gif&ct=g" width="auto" height="auto"></a></h2>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages, Frameworks and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages, Frameworks & Tools
 
 <div>
   <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
