@@ -7,7 +7,7 @@
 
 <a href="https://github.com/yousefelassal"><img align="right" src="https://media1.giphy.com/media/3o752mkVmOpzaSxRo4/giphy.gif?cid=790b761151aa094c1459094652f9faf01155315aa3167975&rid=giphy.gif&ct=g" width="auto" height="auto"></a></h2>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages and Frameworks
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages, Frameworks and Tools
 
 <div>
   <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -24,7 +24,8 @@
   <a marigin="20" href= "https://astro.build/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" alt = "astro" /></a>
   <a margin="20" href="https://tailwindcss.com/" target="_blank"><img alt ="tailwind" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>
   <a margin="20" href="https://webpack.js.org/" target="_blank"><img alt="webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" /></a>
-    <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a>
+  <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a>
+  <a margin="20" href="https://vitejs.dev/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
 </div>
       
 ## <img src="https://github.com/yousefelassal/Flappy-Bird-Clone/blob/8d5b83b5f4f448982cd615827689cec437c5ce25/output-onlinegiftools.gif" width="auto" height="50px"> Design
