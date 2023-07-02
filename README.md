@@ -25,7 +25,8 @@
   <a margin="20" href="https://tailwindcss.com/" target="_blank"><img alt ="tailwind" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>
   <a margin="20" href="https://webpack.js.org/" target="_blank"><img alt="webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" /></a>
   <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a>
-  <a margin="20" href="https://vitejs.dev/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://reactrouter.com/"><img alt="react router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label="/></a>
 </div>
       
 ## <img src="https://github.com/yousefelassal/Flappy-Bird-Clone/blob/8d5b83b5f4f448982cd615827689cec437c5ce25/output-onlinegiftools.gif" width="auto" height="50px"> Design
