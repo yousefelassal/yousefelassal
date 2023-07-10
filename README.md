@@ -16,7 +16,6 @@
   <a margin="20" href="https://reactjs.org" target="_blank"><img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
   <a margin="20" href="https://nodejs.org" target="_blank"><img  alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
     <a margin="20" href="https://expressjs.com" target="_blank"><img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
-    <a margin="20" href="https://www.mongodb.com/" target="_blank"><img  alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/></a>
 <!--   <a margin="20" href="https://cplusplus.com/" target="_blank"><img alt ="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.java.com/en/" target="_blank"><img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> -->
   <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -30,6 +29,7 @@
 <!--   <a margin="20" href="https://reactrouter.com/"><img alt="react router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label="/></a> -->
   <a margin="20" href="https://axios-http.com/docs/intro"><img alt="axios" src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.framer.com/motion/"><img alt="framer motion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Framer+Motion&color=0055FF&logo=Framer&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://www.mongodb.com/" target="_blank"><img  alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/></a>
 </div>
       
 ## <img src="https://github.com/yousefelassal/Flappy-Bird-Clone/blob/8d5b83b5f4f448982cd615827689cec437c5ce25/output-onlinegiftools.gif" width="auto" height="50px"> Design
