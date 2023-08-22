@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">UX/UI Desiger & Web Developer</h3>
+<h3 align="center">UX/UI Desiger & Full-stack Developer</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-yousefelassal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelassal/)](https://www.linkedin.com/in/yousefelassal/)
 [![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
