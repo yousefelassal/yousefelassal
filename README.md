@@ -27,10 +27,11 @@
   <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a>
   <a margin="20" href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
 <!--   <a margin="20" href="https://reactrouter.com/"><img alt="react router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label="/></a> -->
-  <a margin="20" href="https://axios-http.com/docs/intro"><img alt="axios" src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/></a>
+<!--   <a margin="20" href="https://axios-http.com/docs/intro"><img alt="axios" src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/></a> -->
   <a margin="20" href="https://www.framer.com/motion/"><img alt="framer motion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Framer+Motion&color=0055FF&logo=Framer&logoColor=FFFFFF&label="/></a>
-  <a margin="20" href="https://www.mongodb.com/" target="_blank"><img  alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://www.mongodb.com/" target="_blank"><img  alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://www.postgresql.org/" target="_blank"><img  alt="PostgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label="/></a>
   <a marigin="20" href= "https://expo.dev/" target="_blank"><img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" /></a>
 </div>
       
