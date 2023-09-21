@@ -36,15 +36,3 @@
   <a marigin="20" href= "https://expo.dev/" target="_blank"><img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" /></a>
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
 </div>
-      
-## <img src="https://github.com/yousefelassal/Flappy-Bird-Clone/blob/8d5b83b5f4f448982cd615827689cec437c5ce25/output-onlinegiftools.gif" width="auto" height="50px"> Design
-<div>
-  <a marigin="20" href= "https://www.figma.com/" target="_blank"><img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=" alt = "xd" />
-  <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/badge/photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
-    <a marigin="20" href= "https://www.blender.org/" target="_blank"><img  alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
-    <a marigin="20" href= "https://www.aseprite.org/" target="_blank"><img  alt="aseprite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Aseprite&color=7D929E&logo=Aseprite&logoColor=FFFFFF&label="/>
-  <a marigin="20" href= "https://www.adobe.com/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Premiere+Pro&color=9999FF&logo=Adobe+Premiere+Pro&logoColor=FFFFFF&label=" alt = "premiere" />
-</div>
-
