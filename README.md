@@ -1,11 +1,8 @@
 
-<h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">UX/UI Desiger & Full-stack Developer</h3>
+<div align="center">
+<!-- <h3 align="center">Full-stack Developer</h3> -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-yousefelassal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yousefelassal/)](https://www.linkedin.com/in/yousefelassal/)
-[![Gmail Badge](https://img.shields.io/badge/-yousefsameh24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:yousefsameh24@gmail.com)](mailto:yousefsameh24@gmail.com)
-
-<a href="https://github.com/yousefelassal"><img align="right" src="https://media1.giphy.com/media/3o752mkVmOpzaSxRo4/giphy.gif?cid=790b761151aa094c1459094652f9faf01155315aa3167975&rid=giphy.gif&ct=g" width="250px" height="auto"></a></h2>
+<a href="https://github.com/yousefelassal"><img src="https://media1.giphy.com/media/3o752mkVmOpzaSxRo4/giphy.gif?cid=790b761151aa094c1459094652f9faf01155315aa3167975&rid=giphy.gif&ct=g" width="200px" height="auto"></a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages, Frameworks & Tools
 
@@ -35,4 +32,5 @@
   <a margin="20" href="https://supabase.com/" target="_blank"><img  alt="Supdabase" src="https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label="/></a>
   <a marigin="20" href= "https://expo.dev/" target="_blank"><img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" /></a>
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
+</div>
 </div>
