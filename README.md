@@ -7,8 +7,6 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Languages, Frameworks & Tools
 
 <div>
-<!--   <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
-  <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a> -->
   <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a margin="20" href="https://reactjs.org" target="_blank"><img  alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
   <a margin="20" href="https://nextjs.org/" target="_blank"><img  alt="Next" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="/></a>
