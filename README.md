@@ -30,5 +30,6 @@
   <a marigin="20" href= "https://expo.dev/" target="_blank"><img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" /></a>
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a margin="20" href="https://flask.palletsprojects.com" target="_blank"><img  alt="flask" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/></a>
 </div>
 </div>
