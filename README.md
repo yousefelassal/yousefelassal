@@ -14,7 +14,6 @@
     <a margin="20" href="https://expressjs.com" target="_blank"><img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></a>
 <!--   <a margin="20" href="https://cplusplus.com/" target="_blank"><img alt ="C++" src="https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.java.com/en/" target="_blank"><img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a> -->
-  <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a marigin="20" href= "https://astro.build/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" alt = "astro" /></a>
   <a marigin="20" href= "https://www.typescriptlang.org/" target="_blank"><img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" /></a>
   <a margin="20" href="https://tailwindcss.com/" target="_blank"><img alt ="tailwind" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>
@@ -30,5 +29,6 @@
   <a margin="20" href="https://supabase.com/" target="_blank"><img  alt="Supdabase" src="https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label="/></a>
   <a marigin="20" href= "https://expo.dev/" target="_blank"><img src = "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt = "expo" /></a>
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 </div>
 </div>
