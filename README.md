@@ -19,6 +19,7 @@
   <a margin="20" href="https://tailwindcss.com/" target="_blank"><img alt ="tailwind" src="https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=" /></a>
 <!--   <a margin="20" href="https://webpack.js.org/" target="_blank"><img alt="webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" /></a> -->
   <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a>
+  <a margin="20" href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=" /></a>
   <a marigin="20" href= "https://astro.build/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" alt = "astro" /></a>
 <!--   <a marigin="20" href= "https://pugjs.org/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=" alt = "pug" /></a> -->
   <a margin="20" href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
