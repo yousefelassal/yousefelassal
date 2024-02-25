@@ -35,4 +35,10 @@
   <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
 <!--   <a margin="20" href="https://flask.palletsprojects.com" target="_blank"><img  alt="flask" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/></a> -->
 </div>
+<br />
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yousefelassal&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=yousefelassal&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=yousefelassal&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
 </div>
