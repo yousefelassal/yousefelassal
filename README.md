@@ -20,6 +20,7 @@
 <!--   <a margin="20" href="https://webpack.js.org/" target="_blank"><img alt="webpack" src="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=" /></a> -->
 <!--   <a margin="20" href="https://sass-lang.com/" target="_blank"><img alt="Sass" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=" /></a> -->
   <a margin="20" href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=" /></a>
+  <a margin="20" href="https://www.apollographql.com/docs/" target="_blank"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" /></a>
   <a marigin="20" href= "https://astro.build/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" alt = "astro" /></a>
 <!--   <a marigin="20" href= "https://pugjs.org/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=" alt = "pug" /></a> -->
   <a margin="20" href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
@@ -33,6 +34,8 @@
   <a margin="20" href="https://jestjs.io/" target="_blank"><img  alt="Jest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jest&color=C21325&logo=Jest&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.cypress.io/" target="_blank"><img  alt="Cypress" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cypress&color=17202C&logo=Cypress&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://www.python.org/" target="_blank"><img  alt="python" src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a margin="20" href="https://www.docker.com/" target="_blank"><img  alt="docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/></a>
+  <a margin="20" href="https://docs.github.com/en/actions" target="_blank"><img  alt="GitHub Actions" src ="https://img.shields.io/badge/Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white"/></a>
 <!--   <a margin="20" href="https://flask.palletsprojects.com" target="_blank"><img  alt="flask" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label="/></a> -->
 </div>
 <br />
