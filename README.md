@@ -23,7 +23,7 @@
   <a margin="20" href="https://www.apollographql.com/docs/" target="_blank"><img alt="Apollo" src="https://img.shields.io/badge/Apollo-311C87.svg?style=for-the-badge&logo=Apollo-GraphQL&logoColor=white" /></a>
   <a marigin="20" href= "https://astro.build/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Astro&color=FF5D01&logo=Astro&logoColor=FFFFFF&label=" alt = "astro" /></a>
 <!--   <a marigin="20" href= "https://pugjs.org/" target="_blank"><img src = "https://img.shields.io/static/v1?style=for-the-badge&message=Pug&color=A86454&logo=Pug&logoColor=FFFFFF&label=" alt = "pug" /></a> -->
-  <a margin="20" href="https://vitejs.dev/"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
+  <a margin="20" href="https://vitejs.dev/" target="_blank"><img alt="vite" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=646CFF&logo=Vite&logoColor=FFFFFF&label="/></a>
 <!--   <a margin="20" href="https://reactrouter.com/"><img alt="react router" src="https://img.shields.io/static/v1?style=for-the-badge&message=React+Router&color=CA4245&logo=React+Router&logoColor=FFFFFF&label="/></a> -->
 <!--   <a margin="20" href="https://www.framer.com/motion/"><img alt="framer motion" src="https://img.shields.io/static/v1?style=for-the-badge&message=Framer+Motion&color=0055FF&logo=Framer&logoColor=FFFFFF&label="/></a>
   <a margin="20" href="https://axios-http.com/docs/intro"><img alt="axios" src="https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label="/></a> -->
